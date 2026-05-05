@@ -83,7 +83,7 @@ Selected work:
 
 Long-term goal: AI Security Engineer at a FAANG-tier lab. This repo is part of how I'm getting there.
 
-[GitHub](https://github.com/<rezasarkhosh>) · [LinkedIn](https://linkedin.com/in/<rezas-sarkhosh>) · [Email](mailto:<rezas.sarkhosh@gamil.com>)
+[GitHub](https://github.com/<rezasarkhosh>) · [LinkedIn](https://linkedin.com/in/rezas-sarkhosh) · [Email](mailto:<rezas.sarkhosh@gamil.com>)
 
 ## License
 
